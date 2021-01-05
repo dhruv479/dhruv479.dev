@@ -20,10 +20,10 @@ export const Contact = () => {
           <ExtLink link="https://github.com/dhruv479" newTab>
             GitHub
           </ExtLink>
-          {/* ,{" "}
-          <ExtLink link="https://twitter.com/dhruv479" newTab>
-            Twitter
-          </ExtLink> */}
+          ,{" "}
+          <ExtLink link="https://linkedin.com/in/dhruv479" newTab>
+            Linkedin
+          </ExtLink>
           ,{" "}
           <ExtLink link="https://www.instagram.com/dhruv479_" newTab>
             Instagram
