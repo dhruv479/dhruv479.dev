@@ -1,7 +1,7 @@
 # [https://dhruv479.dev](https://dhruv479.dev)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Twitter Follow](https://img.shields.io/twitter/follow/dhruv479?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dhruv479?style=social)](https://twitter.com/dhruv479)
 
 My personal website running on Gatsby.
 
