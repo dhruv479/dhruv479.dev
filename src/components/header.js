@@ -34,6 +34,12 @@ const Header = ({ activePage }) => (
         >
           Projects
         </NavLink>
+        <NavLink
+          to="https://dhruv479.medium.com"
+          title="Blogs"
+        >
+          Blogs
+        </NavLink>
         <NavLink to="/about" title="About" selected={activePage === "about"}>
           About
         </NavLink>
