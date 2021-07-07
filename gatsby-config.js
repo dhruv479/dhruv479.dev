@@ -4,7 +4,7 @@ module.exports = {
     description: `Dhruv Bansal is a javascript developer`,
     author: `Dhruv Bansal`,
     siteUrl: `https://dhruv479.dev`,
-    image: `/images/og-card.png`,
+    image: `/images/the-avatar.png`,
     twitterUsername: `@dhruv479`,
   },
   plugins: [
@@ -20,13 +20,6 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/assets/images`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `blog`,
-        path: `${__dirname}/content/blog`,
       },
     },
     "gatsby-image",

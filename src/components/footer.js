@@ -10,9 +10,9 @@ const Footer = _ => {
             <NavLink to="/" title="Home">
               Home
             </NavLink>
-            {/* <NavLink to="/blog" title="Blog">
-              Blog
-            </NavLink> */}
+            <NavLink title="Blogs">
+              <a href="https://dhruv479.medium.com">Blogs</a>
+            </NavLink>
             <NavLink to="/projects" title="Projects">
               Projects
             </NavLink>
@@ -25,7 +25,7 @@ const Footer = _ => {
               className="text-xs tracking-wider self-center md:self-end"
               aria-label="Copyright"
             >
-              © 2020 Dhruv Bansal. All Rights Reserved.
+              © 2021 Dhruv Bansal. All Rights Reserved.
             </span>
             <div className="flex flex-row items-center space-x-4 justify-center md:justify-end">
               <span>
@@ -104,7 +104,7 @@ const Footer = _ => {
               </span> */}
               <span>
                 <a
-                  href="https://www.instagram.com/dhruv479_/"
+                  href="https://www.instagram.com/_dhruv479"
                   aria-label="Visit Instagram profile"
                   title="Visit Instagram profile"
                   target="_blank"

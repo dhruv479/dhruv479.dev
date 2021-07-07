@@ -24,21 +24,15 @@ const Header = ({ activePage }) => (
         <NavLink to="/" title="Home" selected={activePage === "/"}>
           Home
         </NavLink>
-        {/* <NavLink to="/blog" title="Blog" selected={activePage === "blog"}>
-          Blog
-        </NavLink> */}
+        <NavLink title="Blogs">
+          <a href="https://dhruv479.medium.com">Blogs</a>
+        </NavLink>
         <NavLink
           to="/projects"
           title="Projects"
           selected={activePage === "projects"}
         >
           Projects
-        </NavLink>
-        <NavLink
-          to="https://dhruv479.medium.com"
-          title="Blogs"
-        >
-          Blogs
         </NavLink>
         <NavLink to="/about" title="About" selected={activePage === "about"}>
           About
